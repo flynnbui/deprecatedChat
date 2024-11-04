@@ -1,0 +1,680 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.api\\command.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\command.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.api\\controllers\\keyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\controllers\\keyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6FF5C-7A7F-416B-A8DF-FAD9ABB2B80B}|ChatApp.Infrastructure\\ChatApp.Infrastructure.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A6FF5C-7A7F-416B-A8DF-FAD9ABB2B80B}|ChatApp.Infrastructure\\ChatApp.Infrastructure.csproj|solutionrelative:chatapp.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6FF5C-7A7F-416B-A8DF-FAD9ABB2B80B}|ChatApp.Infrastructure\\ChatApp.Infrastructure.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A6FF5C-7A7F-416B-A8DF-FAD9ABB2B80B}|ChatApp.Infrastructure\\ChatApp.Infrastructure.csproj|solutionrelative:chatapp.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6FF5C-7A7F-416B-A8DF-FAD9ABB2B80B}|ChatApp.Infrastructure\\ChatApp.Infrastructure.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.infrastructure\\repositories\\keyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A6FF5C-7A7F-416B-A8DF-FAD9ABB2B80B}|ChatApp.Infrastructure\\ChatApp.Infrastructure.csproj|solutionrelative:chatapp.infrastructure\\repositories\\keyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6FF5C-7A7F-416B-A8DF-FAD9ABB2B80B}|ChatApp.Infrastructure\\ChatApp.Infrastructure.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.infrastructure\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A6FF5C-7A7F-416B-A8DF-FAD9ABB2B80B}|ChatApp.Infrastructure\\ChatApp.Infrastructure.csproj|solutionrelative:chatapp.infrastructure\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\services\\keyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\services\\keyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\interfaces\\services\\ikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\interfaces\\services\\ikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\interfaces\\repositories\\ikeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\interfaces\\repositories\\ikeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\models\\keybundle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\models\\keybundle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\interfaces\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\interfaces\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A6FF5C-7A7F-416B-A8DF-FAD9ABB2B80B}|ChatApp.Infrastructure\\ChatApp.Infrastructure.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.infrastructure\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A6FF5C-7A7F-416B-A8DF-FAD9ABB2B80B}|ChatApp.Infrastructure\\ChatApp.Infrastructure.csproj|solutionrelative:chatapp.infrastructure\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\interfaces\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\interfaces\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\dtos\\response\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\dtos\\response\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\dtos\\response\\conversationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\dtos\\response\\conversationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\dtos\\request\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\dtos\\request\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\services\\tokenclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\services\\tokenclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\interfaces\\services\\itokenclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\interfaces\\services\\itokenclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\dtos\\response\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\dtos\\response\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\dtos\\request\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\dtos\\request\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\dtos\\response\\registerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\dtos\\response\\registerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\interfaces\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\interfaces\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{614AAA55-C5C0-4B16-A940-A8648FB13A48}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\dtos\\request\\chatmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\dtos\\request\\chatmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|e:\\code\\comp6841\\chatify\\backend\\chatify\\chatapp.core\\dtos\\request\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C5B48E-7573-44E6-A6BA-387056B213A9}|ChatApp.Core\\ChatApp.Core.csproj|solutionrelative:chatapp.core\\dtos\\request\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ChatApp.API\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ChatApp.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:04:02.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeysController.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Controllers\\KeysController.cs",
+              "RelativeDocumentMoniker": "ChatApp.API\\Controllers\\KeysController.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Controllers\\KeysController.cs",
+              "RelativeToolTip": "ChatApp.API\\Controllers\\KeysController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAywCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:49:41.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KeyRepository.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Infrastructure\\Repositories\\KeyRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Infrastructure\\Repositories\\KeyRepository.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Infrastructure\\Repositories\\KeyRepository.cs",
+              "RelativeToolTip": "ChatApp.Infrastructure\\Repositories\\KeyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:48:02.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IKeyService.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Services\\IKeyService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Interfaces\\Services\\IKeyService.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Services\\IKeyService.cs",
+              "RelativeToolTip": "ChatApp.Core\\Interfaces\\Services\\IKeyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:47:04.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KeyService.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Services\\KeyService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Services\\KeyService.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Services\\KeyService.cs",
+              "RelativeToolTip": "ChatApp.Core\\Services\\KeyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:46:43.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IKeyRepository.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Repositories\\IKeyRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Interfaces\\Repositories\\IKeyRepository.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Repositories\\IKeyRepository.cs",
+              "RelativeToolTip": "ChatApp.Core\\Interfaces\\Repositories\\IKeyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:46:12.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KeyBundle.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Models\\KeyBundle.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Models\\KeyBundle.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Models\\KeyBundle.cs",
+              "RelativeToolTip": "ChatApp.Core\\Models\\KeyBundle.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:45:46.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Repositories\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Interfaces\\Repositories\\IMessageRepository.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Repositories\\IMessageRepository.cs",
+              "RelativeToolTip": "ChatApp.Core\\Interfaces\\Repositories\\IMessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:56:46.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Services\\MessageService.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Services\\MessageService.cs",
+              "RelativeToolTip": "ChatApp.Core\\Services\\MessageService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwDIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:56:12.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MessageDTO.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Response\\MessageDTO.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\DTOs\\Response\\MessageDTO.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Response\\MessageDTO.cs",
+              "RelativeToolTip": "ChatApp.Core\\DTOs\\Response\\MessageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:54:46.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Services\\IMessageService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Interfaces\\Services\\IMessageService.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Services\\IMessageService.cs",
+              "RelativeToolTip": "ChatApp.Core\\Interfaces\\Services\\IMessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:54:04.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConversationDTO.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Response\\ConversationDTO.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\DTOs\\Response\\ConversationDTO.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Response\\ConversationDTO.cs",
+              "RelativeToolTip": "ChatApp.Core\\DTOs\\Response\\ConversationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:52:05.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "ChatApp.API\\Controllers\\MessageController.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "ChatApp.API\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:51:30.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Infrastructure\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Infrastructure\\Repositories\\MessageRepository.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Infrastructure\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "ChatApp.Infrastructure\\Repositories\\MessageRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIAywBoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:50:23.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Models\\Message.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Models\\Message.cs",
+              "RelativeToolTip": "ChatApp.Core\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:49:16.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ChatApp.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ChatApp.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:33:47.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "ChatApp.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T01:51:06.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ChatApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:07:36.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterResponseDTO.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Response\\RegisterResponseDTO.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\DTOs\\Response\\RegisterResponseDTO.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Response\\RegisterResponseDTO.cs",
+              "RelativeToolTip": "ChatApp.Core\\DTOs\\Response\\RegisterResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:47:23.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Command.md",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Command.md",
+              "RelativeDocumentMoniker": "ChatApp.API\\Command.md",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Command.md",
+              "RelativeToolTip": "ChatApp.API\\Command.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-02T21:28:51.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "ChatApp.API\\docker-compose.yml",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\docker-compose.yml",
+              "RelativeToolTip": "ChatApp.API\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-02T21:26:10.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ChatMessageDTO.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Request\\ChatMessageDTO.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\DTOs\\Request\\ChatMessageDTO.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Request\\ChatMessageDTO.cs",
+              "RelativeToolTip": "ChatApp.Core\\DTOs\\Request\\ChatMessageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:15:26.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatApp.API\\Hubs\\ChatHub.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ChatApp.API\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:12:04.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Request\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\DTOs\\Request\\RegisterDTO.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Request\\RegisterDTO.cs",
+              "RelativeToolTip": "ChatApp.Core\\DTOs\\Request\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:51:57.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Request\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\DTOs\\Request\\LoginDTO.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Request\\LoginDTO.cs",
+              "RelativeToolTip": "ChatApp.Core\\DTOs\\Request\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:37:49.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RefreshTokenDTO.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Request\\RefreshTokenDTO.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\DTOs\\Request\\RefreshTokenDTO.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Request\\RefreshTokenDTO.cs",
+              "RelativeToolTip": "ChatApp.Core\\DTOs\\Request\\RefreshTokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:37:04.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "ChatApp.Core\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:35:06.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Models\\User.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Models\\User.cs",
+              "RelativeToolTip": "ChatApp.Core\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:29:22.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "ChatApp.Core\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:29:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Services\\UserService.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Services\\UserService.cs",
+              "RelativeToolTip": "ChatApp.Core\\Services\\UserService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:26:40.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Response\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\DTOs\\Response\\LoginResponseDTO.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\DTOs\\Response\\LoginResponseDTO.cs",
+              "RelativeToolTip": "ChatApp.Core\\DTOs\\Response\\LoginResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:25:31.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "ChatApp.Core\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:36:35.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "ChatApp.API\\Program.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Program.cs",
+              "RelativeToolTip": "ChatApp.API\\Program.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAYwGQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:33:19.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatApp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:26:01.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TokenClaimService.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Services\\TokenClaimService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Services\\TokenClaimService.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Services\\TokenClaimService.cs",
+              "RelativeToolTip": "ChatApp.Core\\Services\\TokenClaimService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAawDsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:36:14.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITokenClaimService.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Services\\ITokenClaimService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Interfaces\\Services\\ITokenClaimService.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Services\\ITokenClaimService.cs",
+              "RelativeToolTip": "ChatApp.Core\\Interfaces\\Services\\ITokenClaimService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:35:10.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Services\\AuthService.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Services\\AuthService.cs",
+              "RelativeToolTip": "ChatApp.Core\\Services\\AuthService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAywBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:19:55.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Core\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Core\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "ChatApp.Core\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:19:40.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatApp.API\\appsettings.json",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.API\\appsettings.json",
+              "RelativeToolTip": "ChatApp.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T16:54:30.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Infrastructure\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "ChatApp.Infrastructure\\Data\\DbContext.cs",
+              "ToolTip": "E:\\code\\comp6841\\Chatify\\backend\\Chatify\\ChatApp.Infrastructure\\Data\\DbContext.cs",
+              "RelativeToolTip": "ChatApp.Infrastructure\\Data\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:48:41.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

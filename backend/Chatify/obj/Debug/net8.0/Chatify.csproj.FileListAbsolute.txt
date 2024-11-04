@@ -1,0 +1,8 @@
+E:\code\comp6841\Chatify\backend\Chatify\obj\Debug\net8.0\Chatify.csproj.AssemblyReference.cache
+E:\code\comp6841\Chatify\backend\Chatify\obj\Debug\net8.0\Chatify.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\comp6841\Chatify\backend\Chatify\obj\Debug\net8.0\Chatify.AssemblyInfoInputs.cache
+E:\code\comp6841\Chatify\backend\Chatify\obj\Debug\net8.0\Chatify.AssemblyInfo.cs
+E:\code\comp6841\Chatify\backend\Chatify\obj\Debug\net8.0\Chatify.csproj.CoreCompileInputs.cache
+E:\code\comp6841\Chatify\backend\Chatify\obj\Debug\net8.0\Chatify.MvcApplicationPartsAssemblyInfo.cs
+E:\code\comp6841\Chatify\backend\Chatify\obj\Debug\net8.0\Chatify.MvcApplicationPartsAssemblyInfo.cache
+E:\code\comp6841\Chatify\backend\Chatify\obj\Debug\net8.0\Chatify.sourcelink.json
